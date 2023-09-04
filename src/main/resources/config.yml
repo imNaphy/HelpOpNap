@@ -1,0 +1,10 @@
+Enabled: true
+
+Helpop Message: "&c[HelpOP] &7New problem from %player%: %message%\n\n&b&lClick this message to respond to %player%."
+Player Message: "&b[HelpOP] &a%player% &7has responded to your message (%problem%):\n\n%message%"
+Hover Message: "Click to respond!"
+Message Sent: "&b[HelpOP] &7Your message has been sent to all online staff members!"
+No Problems: "&c[HelpOP] &7No problems available!"
+Help List: "&c[HelpOP] &7List of problems that are still available:\n\n"
+Help Format: "&a%player% &7- &b%problem%"
+Hover Message for List: "Click to respond to %player%!"
